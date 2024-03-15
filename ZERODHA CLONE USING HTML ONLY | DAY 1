@@ -1,0 +1,43 @@
+<html>
+<head><title>Zerodha Clone</title></head>
+<div>
+    <img width="200" src="zerodha logo.svg"></img>
+</div>
+    <span> Sign up</span>
+    <span> About</span>
+    <span> Product</span>
+    <span> Pricing </span>
+    <span> support</span>
+
+</div>
+
+<center>
+    <img src="ZERODHALANDINGIMAGE.png">
+    </img>
+</center>
+
+<div>
+    <center>
+        <h2>Invest in everything</h2>
+    </center>
+</div>
+
+<div>
+    <center>
+    Online platform to invest in stocks, derivatives, mutual funds, and more.
+    </center>
+</div>
+
+<br>
+
+
+</br>
+<div>
+    <center>
+        <button  style="background-color:blue";onclick="https://google.com">
+            <h2><font color="white">Sign up now</font> </h2>
+        </button>
+    </center>
+</div>
+
+</html>
