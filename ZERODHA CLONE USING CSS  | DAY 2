@@ -1,0 +1,67 @@
+<html>
+<head><title>Zerodha Clone</title></head>
+
+
+
+
+<span>
+    <img style="padding-left: 13%;margin-top: 0.3cm;padding-right: 30%;" 
+    width="150" src="zerodha logo.svg">
+</img>
+</span>
+
+    <span style="padding-right: 2%;"> Sign up</span>
+    <span style="padding-right: 2%;"> About</span>
+    <span style="padding-right: 2%;"> Product</span>
+    <span style="padding-right: 2%;"> Pricing </span>
+    <span style="padding-right: 2%;margin-bottom: 10%;"> Support</span>
+    <br></br>
+
+
+<center>
+    <img src="ZERODHALANDINGIMAGE.png">
+    </img>
+</center>
+
+<div>
+    <center>
+        <h2>Invest in everything</h2>
+    </center>
+</div>
+
+<div>
+    <center>
+    Online platform to invest in stocks, derivatives, mutual funds, and more.
+    </center>
+</div>
+
+<br>
+
+
+</br>
+<div>
+    <center>
+        <button  style="background-color:#387ed1;
+        border-radius: 3px;
+        border-width: 0cap;
+        border: 1px solid rgba(0,0,0,0);
+        margin-top: 50px;
+        display: inline-block;
+        padding: 5px 40px;
+        
+        text-align: center;
+        font-size: 0.7sem;
+        
+        line-height: 0.2em;
+        font-weight: 100;
+        text-decoration: none;
+        white-space: nowrap;
+        
+        cursor: pointer;
+        box-sizing: border-box;";onclick="https://google.com">
+            <h2 style="color:white;">Sign up now </h2>
+        </button>
+    </center>
+</div>
+
+</html>
