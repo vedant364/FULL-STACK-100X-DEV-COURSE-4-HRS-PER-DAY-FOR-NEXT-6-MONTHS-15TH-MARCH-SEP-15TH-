@@ -1,0 +1,40 @@
+//steps to see the output, copy and paste this code without the comments on notepad or any IDE like VScode,etc, save the file with a .htm or .html extension
+//now open the file, it opens as a webpage in your default browser
+//here's the link to its notes https://vedant-lrc.notion.site/100x-Devs-0-100-FULL-STACK-WEB-DEVELOPMENT-113e1680558f8037bcb8e6137e6dbfaf?pvs=4
+//you'll need to save any random image in your project folder, then paste its file in in the src="" to see image
+
+<html>
+    <head>
+        My first page
+        <title>
+            My first title
+        </title>
+    </head>
+
+    <body>
+        <h1>
+            My first heading
+        </h1>
+        <div>
+            I'll be using div tag. 
+        </div>
+        <div>Now, this line is printed on different line from the one above.</div>
+        <div>
+            The div tag made it happen!
+        </div>
+
+        <span>hey,</span>
+        <span>I'm Vedant</span>
+        <img src="photo_2024-10-04_22-39-48.jpg"></img>
+        <a href="https://google.com" target="_blank">This is a hyperlink to google.com</a>
+        
+        <br> </br>
+        <div>
+        <input placeholder="username" type="text"></input>
+        </div>
+
+
+    
+    
+    </body>
+</html>
