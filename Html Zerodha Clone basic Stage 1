@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title>Zerodha: Online Brokerage</title>
+        <style>
+        p.ex1 {
+             
+            padding-left: 11500px;
+          }
+          </style>
+    </head>
+    <body>
+        <img src="logo.svg" style="padding-top: 2%;" width="150" >
+        <nav class="ex1" style="padding-left: 70%;padding-bottom: 2%;" >
+                <span style="padding-right: 2%;" style="padding-bottom: 30%;">
+                    Signup
+                </span>
+
+                <span style="padding-right: 2%;" style="padding-bottom: 30%;">
+                    About
+                </span>
+
+                <span style="padding-right: 2%;"style="padding-bottom: 30%;">
+                    Products
+                </span>
+                <span style="padding-right: 2%;" style="padding-bottom: 30%;">
+                    Pricing
+                </span>
+                <span style="padding-right: 2%;" >
+                    Support
+                </span>
+                <span>
+                    <img src="Screenshot 2024-10-12 162349.png" alt="drop down menu option" height="50"></img>
+
+                </span>
+            </nav>
+
+                
+             
+            
+                
+    <hr>
+
+    <center>
+        <img src="zerodha page center image.png" width="900" alt="Zerodha page center image"></img>
+    </center>
+
+        <div>
+    <center>
+        <h1>Invest in everything</h1>
+    </center>
+        </div>
+    
+        
+    <div>
+    <center>
+    <div>
+        Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds and more.
+    </div>
+    </center>
+    </div>
+
+    <br>
+    <div>
+    <center>
+        <button onclick=""><img src="Screenshot 2024-10-12 130509.png" alt="Sign up now button imaage"></button>
+    </center>
+    </div>
+
+
+
+        </div>
+    </body>
+</html>
